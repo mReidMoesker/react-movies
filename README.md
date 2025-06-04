@@ -10,3 +10,5 @@ Open the link in the description or the link below
 <a href="https://mreidmoesker.github.io/react-movies/">Click here</a>
 
 ### This Project was created using React.js and using the gh-pages NPM plugin.
+Languages:
+JS CSS HTML
