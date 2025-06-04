@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-movies/static/css/main.8edc0c96.css",
+    "main.js": "/react-movies/static/js/main.f4349b6a.js",
+    "static/media/Transformers-poster.jpg": "/react-movies/static/media/Transformers-poster.56c50c421a23ad7e18ae.jpg",
+    "static/media/Goldeneye-poster.jpg": "/react-movies/static/media/Goldeneye-poster.9cf781edd00410b31608.jpg",
+    "static/media/Bourne-poster.jpg": "/react-movies/static/media/Bourne-poster.dc8cd34a65513d6df5c3.jpg",
+    "static/media/Terminator2-poster.jpg": "/react-movies/static/media/Terminator2-poster.40202527e4bd191bdd6d.jpg",
+    "index.html": "/react-movies/index.html",
+    "main.8edc0c96.css.map": "/react-movies/static/css/main.8edc0c96.css.map",
+    "main.f4349b6a.js.map": "/react-movies/static/js/main.f4349b6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8edc0c96.css",
+    "static/js/main.f4349b6a.js"
+  ]
+}
