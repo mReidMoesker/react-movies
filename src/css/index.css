@@ -22,7 +22,7 @@
 /*---- Header ----*/
 .header {
   padding: 16px;
-  background-color: rgb(112, 198, 255);
+  background-color: transparent;
   color: rgb(48, 51, 255);
   display: flex;
   justify-content: space-between;
